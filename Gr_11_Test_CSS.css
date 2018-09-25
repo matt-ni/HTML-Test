@@ -1,0 +1,17 @@
+div {
+	width: 250px; 
+	height: 80px; 
+	text-align: center
+}
+div.one {
+	background-color: red;
+}
+div.two {
+	background-color: green;
+}
+div.three {
+	background-color: blue;
+}
+div.four {
+	background-color: yellow;
+}

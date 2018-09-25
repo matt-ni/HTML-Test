@@ -1,0 +1,15 @@
+DIV {
+	BORDER-RIGHT: black 10px double; BORDER-TOP: black 10px double; BORDER-LEFT: black 10px double; WIDTH: 250px; COLOR: brown; BORDER-BOTTOM: black 10px double; POSITION: absolute; HEIGHT: 80px; TEXT-ALIGN: right
+}
+DIV.one {
+	BACKGROUND-COLOR: red
+}
+DIV.two {
+	BACKGROUND-COLOR: green
+}
+DIV.three {
+	
+}
+divfour {
+	BACKGROUND-COLOR: yellow
+}
